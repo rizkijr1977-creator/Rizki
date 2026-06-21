@@ -1,0 +1,6 @@
+{
+  "name": "Health Journey Tracker",
+  "description": "Minimalist weight tracker assistant with custom curves, keypad input, and daily history charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
